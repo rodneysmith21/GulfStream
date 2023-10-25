@@ -1,0 +1,131 @@
+.topNav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+     background-color: gray; 
+    text-decoration: none;
+}
+
+.topNav li {
+    float: left;
+}
+
+.topNav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 16px;
+    text-decoration: none;
+}
+
+.topNav li a:hover {
+    background-color: #111;
+}
+.topNav{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: gray;
+    text-decoration: none;
+}
+.bttn{
+    background-color:lightgrey;
+}
+.next-nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-decoration: none;
+
+}
+.next-nav li{
+    float: left;
+}
+.next-nav a{
+    padding-left: 15px;
+    text-decoration: none;
+    color: #111;
+}
+.next-nav a:hover{
+    color:blue;
+}
+.space{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.bttnn{
+background-color: rgb(113, 186, 238);
+}
+.qwe{
+    padding:10px;
+}
+.space img{
+    height: 50px;
+}
+.spam {
+    width: 100%;
+}
+.door {
+   /* background-color: lightgrey; */
+    padding-left:60px;
+    padding-right: 60px;
+    margin-left: 20px;
+
+}
+.div{
+    display: inline;
+    padding:10px;
+    background-color:rgb(111, 214, 209);
+    padding-left: 10px;
+}
+.div h1, .div h4{
+    margin-left: 30px;
+
+}
+.aqw img{
+    position: absolute;
+    right: 40px;
+}
+.btttn{
+background-color: dimgray;
+}
+/* .bottom{
+    background-color: lightgrey;
+    /* margin-left:-100px;
+    width: 100%; */
+    /* padding: 10px; */
+/* }  */
+/* .bottomFooter{
+    background-color: lightgrey;
+    margin-left: -380px;
+} */
+.signup{
+    background-color: dimgrey;
+}
+.con{
+    font-family: sans-serif;
+    background-color: cornflowerblue;
+}
+.searchblock{
+    padding: 3px;
+    background-color:grey;
+    display:inline-block;
+}
+
+#searchbar{
+    margin-left: 124px;
+    margin-bottom: 20px;
+}
+.bottom{
+    background-color:#7171bf;
+}
+
+.copyright {
+    text-align: center;
+}
+.aqw{
+    margin-top: 80px;
+}
